@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp", "ContactsApp\ContactsApp.csproj", "{818164A0-8883-465A-B207-FF0A85185C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818164A0-8883-465A-B207-FF0A85185C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818164A0-8883-465A-B207-FF0A85185C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818164A0-8883-465A-B207-FF0A85185C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818164A0-8883-465A-B207-FF0A85185C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7AE01A-AF6A-418B-BB30-E66A7BF09B13}
+	EndGlobalSection
+EndGlobal
